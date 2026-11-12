@@ -20,6 +20,20 @@ short_description: Clinical Brain Tumor Detection via VGG-19
 [![Flask](https://img.shields.io/badge/Flask-WSGI_API-000000.svg?style=flat&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+<p align="center">
+  <a href="https://huggingface.co/spaces/chaitanyaupadhyay/brain-tumor-detection">
+    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Space" />
+  </a>
+  <a href="https://huggingface.co/chaitanyaupadhyay/brain-tumor-vgg19">
+    <img src="https://img.shields.io/badge/🤗%20Model%20Weights-Hugging%20Face-blue?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face Model" />
+  </a>
+</p>
+<p align="center">
+  🌐 <b>Live Application (Hugging Face Space):</b> <a href="https://huggingface.co/spaces/chaitanyaupadhyay/brain-tumor-detection">https://huggingface.co/spaces/chaitanyaupadhyay/brain-tumor-detection</a><br>
+  📦 <b>Model Weights Hub:</b> <a href="https://huggingface.co/chaitanyaupadhyay/brain-tumor-vgg19">https://huggingface.co/chaitanyaupadhyay/brain-tumor-vgg19</a>
+</p>
+
+
 > **Architectural Paradigm**: Deep Transfer Learning with Simonyan & Zisserman VGG19 Feature Extractor  
 > **Domain**: Computer Vision in Neuro-Oncology / Clinical Decision Support Systems (CDSS)  
 > **Author & Lead ML Engineer**: Chaitanya Upadhyay  
