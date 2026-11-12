@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+.github/
+dataset/
+brain_tumor_dataset/
+*.zip
+*.tar.gz
+

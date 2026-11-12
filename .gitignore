@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caches & test coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Large training datasets & local results
+dataset/
+dataset_temp/
+results/
+*.zip
+
+# Neural network checkpoints (> 100MB, hosted on Hugging Face)
+model_weights/*.weights.h5
+model_weights/*.keras
+model_weights/*.h5
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
